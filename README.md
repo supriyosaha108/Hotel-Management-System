@@ -1,5 +1,7 @@
 # Hotel-Management-System
 It helps to manage a hotel by storing and retrieving the details related to rooms, customers and staffs. It shows important statistics evaluated from available data.
+
+
 INSTRUCTION TO USE:
 
 1. OPEN LOCALHOST->PHPMyAdmin
