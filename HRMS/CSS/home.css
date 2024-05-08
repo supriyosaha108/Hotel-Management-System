@@ -1,0 +1,11 @@
+body { margin: 0; color: white;  font-family: "Arial";  font-weight: bold; }
+.topbar { height: 45px; width: 100%; background-color: black; border-bottom: 0.1px solid lightgrey;}
+.topbar span { font-size: 36px; cursor: pointer; }
+.sidebar { padding-top: 50px; height: calc(100% - 95px); width: 300px; position: absolute; top: 45px; background-color: rgb(73, 71, 71); }
+.managername img { border-radius: 50%; height: 100px; width: 100px; border: 2px solid white; }
+.menu button { cursor: pointer;  font-weight: bold; color: white; background-color: transparent; margin: 10px; padding: 10px; border: none; border-radius: 8px; }
+.menu button:active { background-color: gold; color: purple;}
+#logout { clear: both; float: right; position: relative;  top: 3px; font-size: 32px;}
+.mainbar { position: absolute; left: 300px; top: 45px; width: calc(100% - 300px); height: calc(100% - 45px);}
+iframe { height: 100%; width: 100%; }
+#icon{ position: relative; top: -5px; left: 8px; }
